@@ -1,0 +1,27 @@
+{
+  "name": "yesnotree",
+  "version": "1.0.0",
+  "description": "Simple Yes/No Question/Answer tree",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ericblade/yesnotree.git"
+  },
+  "keywords": [
+    "node",
+    "javascript",
+    "question",
+    "answer",
+    "tree",
+    "decision"
+  ],
+  "author": "Eric Blade",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ericblade/yesnotree/issues"
+  },
+  "homepage": "https://github.com/ericblade/yesnotree#readme"
+}
