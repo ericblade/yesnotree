@@ -17,6 +17,9 @@ class Tree {
 
         add(treeObj);
     }
+    setCurrentNode(node) {
+        this.currentNode = node;
+    }
     getCurrentNode() {
         return this.nodes[this.currentNode].message;
     }
