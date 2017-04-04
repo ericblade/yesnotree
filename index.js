@@ -33,7 +33,7 @@ class Tree {
             this.currentNode = this.nodes[this.currentNode].noIndex;
         }
         return {
-            message: this.getCurrentNode(),
+            message: this.getCurrentNodeMessage(),
             complete: !this.nodes[this.currentNode].yesIndex,
         };
     }
