@@ -21,6 +21,9 @@ class Tree {
         this.currentNode = node;
     }
     getCurrentNode() {
+        return this.currentNode;
+    }
+    getCurrentNodeMessage() {
         return this.nodes[this.currentNode].message;
     }
     walk(affirmative) {
