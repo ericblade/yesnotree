@@ -1,4 +1,6 @@
 # yesnotree
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/ericblade/yesnotree.svg)](https://greenkeeper.io/)
 Simple Javascript Yes/No Question/Answer tree
 
 # Usage
